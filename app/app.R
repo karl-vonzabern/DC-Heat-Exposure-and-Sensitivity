@@ -3,6 +3,7 @@
 library(shiny)
 library(bslib)
 library(ggplot2)
+library(GGally)
 library(tidyverse)
 library(leaflet)
 library(sf)
@@ -194,10 +195,10 @@ ui <- fluidPage(
                )),#End tabPanel2
       tabPanel("Mapping",
                sidebarLayout(
-                 sidebarPanel(varSelectInput("var_map", "What metric?", data = heat_quant, selected = "TOTALPOP"),
+                 sidebarPanel(varSelectInput("var_map", "Select Metric", data = heat_quant, selected = "TOTALPOP"),
                               checkboxInput("cooling", "Show DC Cooling Centers", value = FALSE),
-                              checkboxInput("trees", "Show DC Tree Data?", value = FALSE)),
-                 mainPanel(leafletOutput("map_plot", height = "600px"))
+                              checkboxInput("trees", "Show DC Tree Data", value = FALSE)),
+                 mainPanel(leafletOutput("map_plot", height = "800px", width = "900px"))
                )
       ), # End tabPanel3
       tabPanel("Working Data",
@@ -226,7 +227,8 @@ server <- function(input, output) {
   # Bivariate Analysis Tab
   output$plot1 <- renderPlot({
     plot1 <-  ggplot(heat_DC, aes(x = !!input$var1, y = !!input$var2)) +
-      geom_point()
+      geom_point()+
+      theme_bw()
     
     if (is.numeric(heat_DC[[input$var3]])) {
       if (input$log_x == TRUE) {
@@ -266,7 +268,8 @@ server <- function(input, output) {
       }
     } else {
       plot1.1 <- ggplot(heat_DC, aes(x = !!input$var1, y = !!input$var2, color = !!input$var3)) +
-        geom_point()
+        geom_point()+
+        theme_bw()
       
       if (input$log_x == TRUE) {
         if (input$log_y == TRUE) {
@@ -308,7 +311,8 @@ server <- function(input, output) {
   
   output$plot2 <- renderPlot({
     plot2 <- ggplot(heat_DC, aes(x = !!input$var1)) +
-      geom_histogram(bins = input$bins_x)
+      geom_histogram(bins = input$bins_x)+
+      theme_bw()
     if (input$log_x == TRUE) {
       plot2 +scale_x_log10()
     } else {
@@ -318,7 +322,8 @@ server <- function(input, output) {
   
   output$plot3 <- renderPlot({
     plot3 <- ggplot(heat_DC, aes(x = !!input$var2)) +
-      geom_histogram(bins = input$bins_y)
+      geom_histogram(bins = input$bins_y)+
+      theme_bw()
     if (input$log_y == TRUE) {
       plot3 + scale_y_log10()
     } else {
@@ -328,7 +333,8 @@ server <- function(input, output) {
   
   output$plot4 <- renderPlot({
     plot4 <- ggplot(heat_DC, aes(!!input$var3)) +
-      geom_bar()
+      geom_bar()+
+      theme_bw()
     if (is.numeric(heat_DC[[input$var3]])) {
       validate("No Categorical Variable Selected")
     } else {
@@ -338,7 +344,8 @@ server <- function(input, output) {
   
   output$plot5 <- renderPlot({
     plot5 <- ggplot(heat_DC, aes(!!input$var3,!!input$var1)) +
-      geom_violin()
+      geom_violin()+
+      theme_bw()
     
     if (is.numeric(heat_DC[[input$var3]])) {
       validate("No Categorical Variable Selected")
@@ -351,7 +358,8 @@ server <- function(input, output) {
   
   output$plot6 <- renderPlot({
     plot6 <- ggplot(heat_DC, aes(!!input$var3,!!input$var2)) +
-      geom_violin()
+      geom_violin()+
+      theme_bw()
     
     if (is.numeric(heat_DC[[input$var3]])) {
       validate("No Categorical Variable Selected")
