@@ -1,0 +1,28 @@
+---
+title: "PeerReviewReport"
+author: “Karl von Zabern, ChihChin Yang, SzuWei Fu, Evan Bowman”
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Peer Review Progress Report
+
+ - Project Name: Factors that Affect Pet Shelter Euthanasia Rates
+ - Group members:  1-2 Pet adoption - Josephine, Clarise, Adn Lexie
+ - Review by: 1-1 Water Sources reviews-  Evan, SzuWei, Karl and ChihChin
+ 
+ Group Collaboration on Google Docs and pasted to this document.
+
+#### 1. Use Case - who are the users and what questions are you enabling them to answer?
+
+- Their target audience is animal rights workers who are interested in examining where to focus their efforts when it comes to inordinate euthanization. The purpose of the app allows these workers to easily explore trends regarding shelter euthanization to see if there are sound policy recommendations.
+- The users can see potential factors of pet euthanasia rates and help them identify if there are reoccuring trends that could better model euthanasia rates. These include, but are not limited to, age of dog, breed, adoptopted or surrendered, etc. 
+
+#### 2. Data Strategy and status - what kind of data are you able to get:
+
+- It allows users to get euthanasia rates from animal shelters in different cities around the United States. Furthermore, the users can predict whether the animal will be euthanized by choosing different factors, for instance, the data of the different types of animals, the age of the animals, and other conditions, which also provide. 
+
+#### 3. Overall Layout of the App and Workflow - what is the proposed layout and what is the workflow for the users?
+
+- The team intends to have a graphical representation of euthanizations over a time range. The time range can be set by the user but will default to the overall total. There are several possible manipulations based on factors like animal type, breed, age, and city. 
+- The statistical model uses logistic regression to build a classification model that is able to be manipulated by the same variable inputs as listed above.

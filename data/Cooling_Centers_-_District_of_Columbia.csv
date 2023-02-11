@@ -1,0 +1,411 @@
+﻿X,Y,OBJECTID_1,OBJECTID,NAME,ADDRESS,TYPE_,Notes,PHONE,Symbol,Capacity,Activated_As_Cooling_Site,Gender,Warming_Cooling,GlobalID,Hours3
+-77.0213758099999,38.93500999,1,1,Park View Recreation Center,693 Otis Pl NW,Walk to Learn,,202-576-8658,Walk to Learn,12,Yes,Ages 12 and Under,Cooling,{457F41BA-D92B-4524-A34E-81391888F3F2},Weekdays 10AM-5PM
+-76.98985917,38.8833486500001,2,2,Watkins Recreation Center,"420 12th Streets, SE",Recreation Center, ,202-727-1504,Recreation Center,15-20,No,,Cooling,{FA760643-874B-445B-82D4-2FD837AA5D3E},
+-76.99980971,38.8840706400001,3,3,John L. Young Center For Women,"425 D St., NW",Private Low Barrier Shelter, ,202-639-8469,Private Low Barrier Shelter, ,No,,Cooling,{7800438E-C825-4464-B2D7-166141510CAE},
+-77.01916906,38.9003609700001,4,4,Patricia Handy Place,810 5th St NW,DHS Low Barrier Shelter, ,(202) 733-5378,DHS Low Barrier Shelter, ,No,Men,Cooling,{6FF7CB9F-B48F-4867-AA32-07D335AADE47},24 hours
+-76.97487627,38.9196222900001,5,5,Adams Place Day Center for women,2210 Adams Pl NE #1,Private Low Barrier Shelter, ,(202) 832-8317,Private Low Barrier Shelter, ,No,,Cooling,{4F80715A-EDCD-4258-809F-3757F6EBE495},"Monday-Friday; 7am-7pm"
+-76.9123594499999,38.89173121,6,6,Marvin Gaye Recreation Center,"6201 Banks Place, NE 20019",Recreation Center,,(202) 899-6004,Recreation Center,15,Yes,,Cooling,{9EB60267-D634-4C69-9C53-7F0439C188C0},Daily 10AM-8PM
+-77.06202295,38.90357405,7,7,Georgetown Ministries,"1041 Wisconsin Avenue, NW",Private Low Barrier Shelter, ,202-338-8301,Private Low Barrier Shelter, ,No,,Cooling,{913A6BCF-0304-4663-8C1C-44F1A38BB99A},
+-77.0519609899999,38.8985313900001,8,8,Miriam's Kitchen,"2401 Virginia Avenue, NW",Private Low Barrier Shelter, ,202-452-8926,Private Low Barrier Shelter, ,No,,Cooling,{914F8845-C6E9-4EDE-BEEC-46FA31D71B62},
+-77.08063657,38.9513659400001,9,9,Friendship Place Welcome Center,"4713 Wisconsin Avenue, NW",Private Low Barrier Shelter, ,202-364-1419,Private Low Barrier Shelter, ,No,,Cooling,{38FE90EE-4A3A-4DC4-97EA-D118124448E3},
+-76.98697007,38.88145847,10,10,Everyone Home DC,1338 G Street SE,Private Low Barrier Shelter, ,202-544-3150,Private Low Barrier Shelter, ,No,,Cooling,{4E276E06-C083-400A-B4C1-7258E6BFD3E8},
+-77.00966003,38.9015567500001,11,11,Father McKenna Center,"19 I Street, NW",Private Low Barrier Shelter, ,202-842-1112,Private Low Barrier Shelter, ,No,,Cooling,{41596C6F-5E90-4FF1-9DB9-3B6A44206FF0},
+-76.97557417,38.8852198100001,12,12,DC General Building 9 Harriet Tubman,"1900 Massachusetts Avenue, SE",Private Low Barrier Shelter, ,202-399-7093,Private Low Barrier Shelter, ,Yes,Women,Cooling,{FF4A3149-21AE-4F02-A098-83B059DFC078},24 hours
+-77.035747839,38.9334798100001,13,13,Thrive,"1525 Newton Street, NW G1",Private Low Barrier Shelter, ,202-737-9311,Private Low Barrier Shelter, ,No,,Cooling,{874833F6-AED2-4235-ABB4-5E419A4E2125},
+-77.03142561,38.90756608,14,14,Bethany Women's Shelter,"1333 N Street, NW",Private Low Barrier Shelter, ,202-939-2076,Private Low Barrier Shelter, ,No,,Cooling,{4167AB08-4B46-49F0-BBC9-C012721CE0B7},
+-77.03121326,38.89997606,15,15,Downtown Day Services,"1313 New York Avenue, NW",Private Low Barrier Shelter,"Daily meals, showers, laundry, clothing, housing assistance.",202-383-8810,Private Low Barrier Shelter, ,Yes,All,Cooling,{929FC764-4C1F-474F-B3F9-EC234CAE9D55},Regular hours:   Mon-Fri 9AM to 5PM   Weekend hours:   Sat– Sun 10AM to 3PM  
+-77.0849811799999,38.90991617,16,16,Hardy Recreation Center,4500 Q STREET NW,Recreation Center,,(202) 282-2190,Recreation Center,12,Yes,,Cooling,{9A89DBE7-CD22-43DC-B27B-1616D71992DA},
+-77.013239853,38.90672299,17,17,New York Ave/Dunbar Recreation,"100 N Street, NW",Recreation Center,Confirmed 2020 Cooling Site, ,Recreation Center,15,No,,Cooling,{BE15034D-C6B7-44C6-B48F-CF9315407E60},
+-77.009058295,38.8792859270001,18,18,Randall Recreation Center,SOUTH CAPITOL ST AND I ST SW,Recreation Center,,(202) 727-1420,Recreation Center,12,No,All,Cooling,{91F8014C-3723-4F26-9979-80A9946D7098},"Tues-Fri: 10AM-6PM, Sat-Sun: 10PM-6PM, Closed Mon"
+-77.06680255,38.9101020200001,19,19,Volta Park Recreation Center,1555 34TH STREET NW,Recreation Center,,(202) 645-5668,Recreation Center,12,Yes,,Cooling,{CCB4728E-BBA9-498F-9351-1E2874106457},"Mon-Fri 11am-7pm; Sat CLOSED"
+-77.008298982,38.826762278,20,20,Patterson Elementary,"4399 South Capitol Terrace SW, Washington, DC 20032",DCPS,Confirmed 2020 Cooling Site, ,DCPS,15-20,No,,Cooling,{501D78FD-9BFE-46EA-A50D-B385E02FAA35},
+-77.025324557,38.9107022760001,21,21,Seaton Elementary,"1503 10th St NW, Washington, DC 20001",DCPS,Confirmed 2020 Cooling Site, ,DCPS,15-20,No,,Cooling,{B09020D9-4FD9-4D6C-BA2B-697D53DB4442},
+-77.031351743,38.9526223030001,22,22,Hamilton Recreation Center,"1340 Hamilton St NW, Washington, DC 20011",Recreation Center,, ,Recreation Center,12,Yes,,Cooling,{8C1BF716-28AD-4948-B50D-55E04FB3914E},
+-77.0139787479999,38.9045286250001,23,23,Walker Jones Education Campus,"1125 New Jersey Ave NW, Washington, DC 20001",DCPS, , ,DCPS,15-20,No,,Cooling,{8CF5CBE6-5A5A-4E9C-968B-EDE61FB9AF33},
+-76.93372463,38.8968090440001,24,24,Aiton Elementary,"533 48th Pl NE, Washington, DC 20019",DCPS,Confirmed 2020 Cooling Site, ,DCPS,15-20,No,,Cooling,{6CA18463-6CBE-4CC0-BE2C-15E2C467CF11},
+-76.964261995,38.870233012,25,25,Randle Highlands Elementary,"1650 30th St SE, Washington, DC 20020",DCPS,Confirmed 2020 Cooling Site, ,DCPS,15-20,No,,Cooling,{BFB5CC14-0B8E-41EC-A42F-0939ECFC7E10},
+-76.99685754,38.8422465670001,26,26,Congress Heights Recreation,"611 Alabama Ave SE, Washington, DC 20032",Recreation Center,Confirmed 2020 Cooling Site, ,Recreation Center,8,No,,Cooling,{34BD43C6-E983-4783-95AE-205287C226E5},
+-76.97913403,38.8978119500001,27,27,Rosedale Library,1701 Gales Street NE,Library,,(202) 727-5012,Library, ,Yes,,Cooling,{6E00961F-E4DE-4A87-918B-A0BF30558033},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.0660146609999,38.91340152,28,28,Georgetown Library,3260 R Street NW,Library,,(202) 727-0232,Library, ,Yes,,Cooling,{B9F184DB-7B3E-4862-A5D1-86555CAB3D49},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.0261374299999,38.9422002200001,29,29,Petworth Library,4200 Kansas Avenue NW,Library,,(202) 243-1188,Library, ,Yes,,Cooling,{32821534-680A-423F-AF53-AFE0A9B49A9B},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.0371446,38.93046772,30,30,Mt. Pleasant Library,3160 16th Street NW,Library,,(202) 671-3121,Library, ,Yes,,Cooling,{45E15A2F-0E7E-43D9-9E99-9DDCB95E2E14},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.02221836,38.9124421600001,31,31,Shaw Library - Watha T. Daniel,1630 7th Street NW,Library,,(202) 727-1288,Library, ,Yes,,Cooling,{9330D75D-0849-4D55-BD0D-144946AB31AB},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-76.93215558,38.9084449600001,32,32,Deanwood Library,1350 49th Street NE,Library,,(202) 698-1175,Library, ,Yes,,Cooling,{D6FF3FAF-DBCE-4608-BA6D-C843E72C9F2F},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-76.94780521,38.89413388,33,33,Benning Library - Dorothy I Height,3935 Benning Road NE,Library,,(202) 281-2583,Library, ,Yes,,Cooling,{37E97EAB-3D87-4D01-9E00-5CC9F881CD33},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-76.929577211,38.88895483,34,34,Capitol View Library,5001 Central Avenue SE,Library,,(202) 645-0755,Library, ,Yes,,Cooling,{A99EE794-F277-437D-AD8E-E0B4B57645EE},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.0754297189999,38.9655755700001,35,35,Chevy Chase Library,5625 Connecticut Avenue NW,Library,,(202) 282-0021,Library, ,Yes,,Cooling,{D261CEF4-0A29-48B4-AA3F-18EDCF4C3B0F},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.0652009899999,38.9462256300001,36,36,Cleveland Park Interim Library,4340 Connecticut Avenue NW,Library, ,(202) 282-3080,Library, ,No,,Cooling,{EB0A1F39-FF32-4F1E-AA2C-3811BCF61E6E},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-76.95420121,38.8648716000001,37,37,Francis A. Gregory Library,3660 Alabama Avenue SE,Library,,(202) 698-6373,Library, ,Yes,,Cooling,{E226CD07-CF4F-44B5-AB7D-BBDC76A5DE9E},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-76.999584321,38.95512813,38,38,Lamond-Riggs Interim Library,395 Ingraham St NE,Library,,(202) 541-6255,Library, ,Yes,,Cooling,{55949AE2-AF12-4DEF-9180-37982AE99A37},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.02476625,38.8986916600001,39,39,Martin Luther King Jr. Memorial Library,901 G Street NW,Library,,(202) 727-0321,Library, ,Yes,,Cooling,{FBE41995-F441-4BE6-A56E-45A8729358B7},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-8:00 p.m.
+Tuesday:10:00 a.m.-8:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:10:00 a.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-76.9964301099999,38.8944085300001,40,40,Northeast Library,330 7th Street NE,Library,,(202) 698-0058,Library, ,Yes,,Cooling,{D9381ADC-BCDD-4AFC-838C-8219E4E88424},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.0799474299999,38.9476072900001,41,41,Tenley-Friendship Library,4450 Wisconsin Avenue NW,Library,,(202) 727-1488,Library, ,Yes,,Cooling,{ECC2C3C8-29F6-4960-A9FD-70A4E5D231EB},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.0971746399999,38.9183818000001,42,42,Palisades Library,4901 V Street NW,Library,,(202) 282-3139,Library, ,Yes,,Cooling,{13DEA36A-D954-40DC-ADD1-FFD17F0A9F7D},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-76.99651546,38.8840844600001,43,43,Southeast Library,403 7th Street SE,Library,,(202) 698-3377,Library, ,Yes,,Cooling,{4A1D40AC-F159-4BD6-BD85-FE2302187F56},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.01583178,38.8786979500001,44,44,Southwest Library,900 Wesley Place SW,Library,,(202) 724-4752,Library, ,Yes,,Cooling,{3374B9A0-4F07-4662-B4BB-3843A3285435},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.027005561,38.9802904700001,45,45,Shepherd Park Library - Juanita E. Thornton,7420 Georgia Avenue NW,Library,,(202) 541-6100,Library, ,Yes,,Cooling,{9054434B-3E41-4105-99A6-E1F4A4DEB6EF},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.0201568699999,38.9744367500001,46,46,Takoma Park Library,416 Cedar Street NW,Library,,(202) 576-7252,Library, ,Yes,,Cooling,{387D90D7-1993-4BF3-A76A-3931EFCD362D},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-76.98125132,38.84618686,47,47,Parklands-Turner Library,1547 Alabama Avenue SE,Library,,(202) 645-4532,Library, ,Yes,,Cooling,{2B828E4D-08CA-41FE-BF9E-2F8C8AC7D0FE},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.0093649,38.83132585,48,48,Bellevue Library - William O. Lockridge,115 Atlantic Street SW,Library,,(202) 281-2583,Library, ,Yes,,Cooling,{A2351D13-1E5D-471C-83D4-A02483053FB8},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.050686985,38.9039620390001,49,49,West End Library,2301 L Street NW,Library, ,(202) 724-8707,Library, ,No,,Cooling,{3BBC73F9-DFFE-48D4-80BE-1593685AA6C8},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-76.97863547,38.9274137300001,50,50,Woodridge Library,1801 Hamlin Street NE,Library,,(202) 541-6226,Library, ,Yes,,Cooling,{F44F63C0-65FE-457D-B44D-18F5ACD6A240},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.01361683,38.9040027500001,51,51,Northwest One Library,155 L Street NW,Library,,(202) 939-5946,Library, ,Yes,All,Cooling,{551FD19A-03F8-4204-8CA3-780732A95D5A},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-76.9785439299999,38.86598623,52,52,Anacostia Library,1800 Good Hope Road SE,Library,,(202) 715-7707,Library, ,Yes,All,Cooling,{82DF42DF-6EE8-4CB8-889D-D5E9808E0333},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.04454792,38.9021849100001,53,53,Library Express,"1990 K St., NW Lower Level",Library, ,(202) 727-0324,Library, ,No,,Cooling,{8CDEC1CD-639A-43A3-BBAA-46C62D8AA736},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-77.057900909,38.9337902770001,54,54,Cleveland Park Library,3310 Connecticut Avenue NW,Library,,(202) 282-3080,Library, ,Yes,All,Cooling,{1957F8B9-8B70-4BBB-9387-5E3EED3C65D1},"Sunday:1:00 p.m.-5:00 p.m.
+Monday:10:00 a.m.-6:00 p.m.
+Tuesday:10:00 a.m.-6:00 p.m.
+Wednesday:10:00 a.m.-8:00 p.m.
+Thursday:12:00 p.m.-8:00 p.m.
+Friday:10:00 a.m.-6:00 p.m.
+Saturday:10:00 a.m.-6:00 p.m."
+-76.9626421,38.8588061200001,55,55,Hillcrest Spray Park,3100 Denver St SE,Spray Park, ,202-645-9200,Spray Park, ,Yes,All,Cooling,{85A7BFD4-BA14-4C43-A43D-522A9B0781AE},Daily 10AM-8PM
+-77.0179964009999,38.96889264,56,56,Takoma Aquatic Center,300 Van Buren St NW,Indoor Pool, ,202-576-9284,Indoor Pool, ,No,All,Cooling,{CD608214-2461-4984-A158-46630164B245},"Mon-Fri 6AM-12PM & 3-9PM, Mon-Fri Closed 1-3PM, Sat 10AM-4PM"
+-76.99279011,38.9381043600001,57,57,Turkey Thicket Recreation Center,1100 Michigan Ave NE,Recreation Center,,202-576-9237,Recreation Center, ,Yes,All,Cooling,{D266725E-0EE1-4FAE-A04C-58B48D6C8E21},"Mon-Fri 10am-9pm; Sat 9am-5pm"
+-76.9970287089999,38.88658538,58,58,William H. Rumsey Aquatic Center Capitol East Natatorium,635 North Carolina Ave SE,Indoor Pool,,202-724-4495,Indoor Pool, ,Yes,All,Cooling,{E5C0D3CB-C248-4E16-8592-509EFE69F47E},"Mon-Fri 6AM-12PM & 3-9PM, Mon-Fri Closed 1-3PM, Sat 10AM-4PM"
+-76.9632597899999,38.88091402,59,59,Therapeutic Indoor Pool,"3030 G Street, NE",Indoor Pool, ,202-645-5708,Indoor Pool, ,No,,Cooling,{E8A3F260-8928-45CC-8D5D-EF56C8871FEA},
+-76.9963033499999,38.8603250900001,60,60,Barry Farm Aquatic Center,1230 Sumner Rd SE,Indoor Pool,,,Indoor Pool, ,Yes,All,Cooling,{2E4AB1DB-450E-4278-9FFC-7546AF120A61},"Mon-Fri 6AM-12PM & 3-9PM, Mon-Fri Closed 1-3PM, Sat 10AM-4PM"
+-76.995163441,38.8323439000001,61,61,Ferebee-Hope Aquatic Center,3999 8th St SE,Indoor Pool,,202-645-3916,Indoor Pool, ,Yes,,Cooling,{0DECFEB2-5858-46C1-8D6B-64231DFB35CB},
+-77.05341716,38.90739397,62,62,Francis Pool,2435 N St NW,Outdoor Pool,,202-727-3285,Outdoor Pool, ,No,All,Cooling,{B873295E-9483-4D61-868B-16731C460D9F},"Mon-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Tues"
+-77.066827641,38.9157129600001,63,63,Jelleff Recreation Center Pool,3265 S St NW,Outdoor Pool, ,202-462-1317,Outdoor Pool, ,Yes,All,Cooling,{171D3BCC-B975-4540-86E6-3C65BD2F1225},"Mon-Fri: 10AM-6PM, Sat-Sun: 12PM-6PM, Closed Wed"
+-77.06680255,38.9101020200001,64,64,Volta Park Pool,1555 34th St NW,Outdoor Pool, ,202-645-5668,Outdoor Pool, ,Yes,All,Cooling,{4B6137DB-386C-4979-951F-5483EE68F694},"Tues-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Mon"
+-77.0323147,38.9433137300001,65,65,Upshur Pool,4300 Arkansas St NW,Outdoor Pool, ,202-576-8661,Outdoor Pool, ,Yes,All,Cooling,{36DA25D0-D4DD-42F3-91A7-053A8DF5172B},"Tue-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Mon"
+-76.95827674,38.9241811900001,66,66,Theodore Hagans Jr. Pool,3201 Fort Lincoln Dr NE,Outdoor Pool, ,202-576-6389,Outdoor Pool, ,Yes,All,Cooling,{E51E88B0-B25B-4E76-A122-0DA8F91CB8AD},"Tues-Fri: 10AM-6PM, Sat-Sun: 10PM-6PM, Closed Mon"
+-76.97356897,38.92704459,67,67,Langdon Park Pool,2860 Mills Ave NE,Outdoor Pool, ,202-576-8655,Outdoor Pool, ,Yes,All,Cooling,{161D7600-BD1A-47A2-BDE1-8AAAC146CAB2},"Mon-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Thur"
+-77.00786815,38.9139860600001,68,68,Harry Thomas Sr. Pool,1743 Lincoln Rd NE,Outdoor Pool, ,"202-541-7499, 202-576-5642",Outdoor Pool, ,Yes,All,Cooling,{B399C566-D49A-4EBC-BF1D-360B6777BC11},"Mon-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Tues"
+-76.97913403,38.8978119500001,69,69,Rosedale Pool,1701 Gales St NE,Outdoor Pool, ,202-397-1315,Outdoor Pool, ,Yes,All,Cooling,{3B0258A5-877C-428B-9AED-746DB6552D7C},"Mon-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Wed"
+-76.926909,38.8798022300001,70,70,Benning Park Pool,5100 Southern Ave SE,Outdoor Pool, ,202-645-5044,Outdoor Pool, ,Yes,All,Cooling,{13632299-1FDA-49EF-A56B-5889B3D43716},"Mon-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Thur"
+-76.9312307,38.8934725300001,71,71,Kelly Miller Pool,4900 Brooks St NE,Outdoor Pool, ,202-724-5056,Outdoor Pool, ,Yes,All,Cooling,{ED9D7360-C07A-421A-8F2D-7D9739DD6EBF},"Tues-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Mon"
+-76.983124599,38.8726023,72,72,Anacostia Pool,1800 Anacostia Dr SE,Outdoor Pool, ,,Outdoor Pool, ,Yes,All,Cooling,{415B9F60-6C11-4DFF-9D1D-5FD156709CC7},"Tues-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Mon"
+-76.9772941699999,38.8526019700001,73,73,Douglass Pool,1921 Frederick Douglass Ct SE,Outdoor Pool, ,202-645-5045,Outdoor Pool, ,Yes,All,Cooling,{E2C9D595-37EE-4257-824F-D1D12CB34BB0},"Mon-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Wed"
+-77.02675191,38.8746157,74,74,East Potomac Pool,972 Ohio Dr SW,Outdoor Pool, ,202-727-6523,Outdoor Pool, ,Yes,,Cooling,{6ABB0DE6-D3A7-4F82-8C5B-5F024F6E7847},
+-76.97830218,38.85764628,75,75,Fort Stanton Pool,1800 Erie St SE,Outdoor Pool, ,202-678-1798,Outdoor Pool, ,Yes,,Cooling,{6E13372F-BF5B-469F-9C59-710F15275CB7},"Mon-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Thur"
+-76.9989312499999,38.8367563400001,76,76,Oxon Run Pool,501 Mississippi Ave SE,Outdoor Pool, ,202-645-5042,Outdoor Pool, ,Yes,All,Cooling,{4F042D3C-36D1-4891-886E-DBC1BBE5C670},"Tues-Fri: 10AM-6PM, Sat-Sun: 10PM-6PM, Closed Mon"
+-77.04052995,38.9191676400001,77,77,Marie Reed Aquatic Center,"2200 Chaplain Street, NW",Indoor Pool,,(202) 234-2162,Indoor Pool, ,Yes,All,Cooling,{D6C6DE18-E7B8-4FEF-8366-0EBA23C7C47B},"Mon-Fri 6AM-12PM & 3-9PM, Mon-Fri Closed 1-3PM, Sat 10AM-4PM"
+-77.0777840599999,38.9492600300001,78,78,Wilson Aquatic Center,4551 Ft. Drive NW,Indoor Pool, ,202-730-0583,Indoor Pool, ,No,,Cooling,{EF61BF6E-F044-4104-9B64-E2D439F35F4F},"Mon-Fri 6AM-12PM & 3-9PM, Mon-Fri Closed 1-3PM, Sat 10AM-4PM"
+-76.99837977,38.877331,79,79,Lincoln Capper Children's Pool,"555 L St., SE",Walk to Learn,,202-727-1080,Walk to Learn, ,Yes,Ages 12 and Under,Cooling,{5A533126-73F3-4D7B-A596-79B08095F574},Weekdays 10AM-5PM
+-76.98985917,38.8833486500001,80,80,Watkins Spray Park,"420 12th Streets, SE",Spray Park, ,202-727-1504,Spray Park, ,Yes,,Cooling,{7EC15195-EBFA-46B6-8053-C1CC5F7BB222},Saturday and Sunday 10AM-8PM
+-77.0408222409999,38.91911214,81,81,Happy Hollow Children's Pool,"2201 18th St. Chaplain St., NW",Walk to Learn, ,(202) 234-2162,Walk to Learn, ,No,,Cooling,{B7626FD0-8C04-4F7D-9E36-E585B859030C},
+-77.0225830799999,38.9227042900001,82,82,Banneker Pool,2500 Georgia Ave NW,Outdoor Pool, ,,Outdoor Pool, ,Yes,All,Cooling,{05BE7ED0-7F47-461A-A333-0BD4FE15AB15},"Mon-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Thur"
+-76.94048494,38.9082290700001,83,83,Kenilworth Pool,"1300 44th Street, NE",Outdoor Pool, ,202-258-6513,Outdoor Pool, ,Yes,All,Cooling,{4485782B-82AA-4F60-8384-CA80B3F38B6E},"Mon-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Wed"
+-76.94072305,38.8764336200001,84,84,Ridge Road Pool,"830 Ridge Road, SE",Outdoor Pool, ,202-390-0523,Outdoor Pool, ,Yes,All,Cooling,{3183668A-87D1-44C4-82BE-35F41C2D93D6},"Mon-Fri: 10AM-6PM, Sat-Sun: 10AM-6PM, Closed Thur"
+-76.93215558,38.9084449600001,85,85,Deanwood Aquatic Center,1350 49th St NE,Indoor Pool,,(202) 671-3078,Indoor Pool, ,Yes,,Cooling,{2647AAFD-B6A1-4DFE-ABB0-7C6018B95E69},
+-76.92269884,38.8968115800001,86,86,HD Woodson Aquatic Center,540 55th St NE,Indoor Pool,,(202) 673-2097,Indoor Pool, ,Yes,,Cooling,{25440F29-1C32-4A4A-A5CC-5C511C19329F},
+-77.0126914799999,38.90762655,87,87,Dunbar Aquatic Center,101 N St NW,Indoor Pool,,(202) 724-5328,Indoor Pool, ,Yes,,Cooling,{8AEE8525-BD9B-4456-BF28-0BB8D91492B5},
+-77.04441658,38.9230587500001,88,88,VIDA Senior Center,1842 CALVERT ST NW,Senior Recreation/Socialization, ,202-483-1508,Senior Service Network, ,No,,Cooling,{3B5B6E39-8B36-400F-8D42-84F39F4450B6},
+-77.02363738,38.93365909,89,89,Bernice Elizabeth Fonteneau Wellness Center,3531 GEORGIA AVE NW,Senior Wellness Center,,202-727-0338,Senior Service Network, ,Yes,,Cooling,{019230B6-8C3C-4267-B69B-E0744157BE31},
+-77.0226016399999,38.89938884,90,90,Asian Services Senior Center,755 8th St NW,Senior Recreation/Socialization, ,202-842-4376,Senior Service Network, ,No,,Cooling,{CCDDF072-793F-417D-821A-C181B908A859},
+-77.03159656,38.90696683,91,91,Senior Center for the Homeless Elderly at Luther Place Church,1226 VERMONT AVE NW,Senior Recreation/Socialization, ,202-265-2017,Senior Service Network, ,No,,Cooling,{4FEBE2D0-5636-40E0-81B8-3104EE0A52B7},
+-77.08165632,38.94817712,92,92,IONA Senior Services,4125 ALBEMARLE ST NW,Senior Case Management, ,202-895-0234,Senior Service Network, ,No,,Cooling,{A9700C99-C969-4175-82A8-53333AA1EC52},
+-77.01712252,38.9563816400001,93,93,Hattie Holmes Senior Wellness Center,324 KENNEDY ST NW,Senior Wellness Center,,202-291-6170,Senior Service Network, ,Yes,,Cooling,{B12A2CA6-535E-4C66-9939-4E97260A9D60},
+-77.03115889,38.97026192,94,94,Ft. Stevens Recreation Center,1327 Van Buren St NW,Recreation Center, ,202-576-6916,Recreation Center, ,No,,Cooling,{EC5CA2CE-BF74-4CCB-AF7C-07AE32238582},
+-76.9767091099999,38.9240774100001,95,95,Model Cities Senior Wellness Center,1901 EVARTS ST NE,Senior Wellness Center,,202-635-1900,Senior Service Network, ,Yes,,Cooling,{DB61FDDB-974F-45D3-AE6F-49B7237A588D},
+-76.99918043,38.9028708600001,96,96,Hayes Senior Wellness Center,500 K STREET NE,Senior Wellness Center,,202-727-0357,Senior Service Network, ,Yes,,Cooling,{ED896347-26AA-47D9-A6D4-6D96B56608D6},
+-76.96412823,38.8604735000001,97,97,"Washington Senior Wellness Center, Weekend Nutrition Program",3001 ALABAMA AVE SE,Senior Wellness Center,,202-581-9355,Senior Service Network, ,Yes,,Cooling,{4A407254-69F8-410A-9B52-AB728F07B992},
+-77.00373303,38.8399043800001,98,98,Congress Heights Senior Wellness Center,3500 MARTIN LUTHER KING JR AVE SE,Senior Wellness Center,,202-563-7225,Senior Service Network, ,Yes,,Cooling,{84B7C6BB-0796-470E-A834-54424B5B6EF1},
+-77.07119822,38.9221505900001,99,99,Guy Mason Spray Park,3600 Calvert St NW,Spray Park, ,202-727-7527,Spray Park, ,No,All,Cooling,{6A2F11A3-E310-475E-BBB4-0F9948565409},Daily 10AM-8PM
+-77.032316317,38.9255018790001,100,100,14th and Girard Street Spray Park,14th and Girard St NW,Spray Park, ,,Spray Park, ,Yes,All,Cooling,{FE4E32C2-83C1-47E3-9EE6-A462D61F604D},Daily 10AM-8PM
+-77.032748517,38.9302311050001,101,101,14th and Park Road Park,14th St & Park Rd NW,Spray Park, , ,Spray Park, ,Yes,All,Cooling,{382790B5-81B4-4C82-B10B-684FA5D65E34},Daily 10AM-8PM
+-77.1045741299999,38.9245553900001,102,102,Palisades Spray Park,5200 Sherrier Pl NW,Spray Park, ,202-545-7201,Spray Park, ,Yes,,Cooling,{86F99653-CCBA-476C-AD42-4F10172316EF},"Mon-Fri 8AM-6PM, Sat 9AM- 5PM"
+-77.0669922399999,38.93370408,103,103,Macomb Recreation Center Spray Park,3409 Macomb St NW,Spray Park, ,202-282-2199,Spray Park, ,Yes,All,Cooling,{EB39E51D-6A55-4E53-B226-D9D2D91FB3AB},Saturday and Sunday 10AM-8PM
+-77.03115889,38.97026192,104,104,Fort Stevens Recreation Center Spray Park,1327 Van Buren St NE,Spray Park, ,202-541-3754,Spray Park, ,Yes,All,Cooling,{23CEC812-D061-4235-8517-CCB1B35DFFB6},Daily 10AM-8PM
+-77.0240035099999,38.9410097000001,105,105,Petworth Spray Park,801 Taylor St NW,Spray Park, ,202-576-6850,Spray Park, ,Yes,All,Cooling,{2BACBC54-0151-41E0-932F-0D5B490B58EC},Daily 10AM-8PM
+-77.0670720099999,38.9677393700001,106,106,Lafayette Spray Park,5900 33rd St NW,Spray Park, ,202-282-2206,Spray Park, ,Yes,All,Cooling,{F99E1C70-AB18-4D51-AD91-B15BE6A1541D},Daily 10AM-8PM
+-76.99988254,38.95997214,107,107,Riggs LaSalle Spray Park,501 Riggs Rd NE,Spray Park, ,202-576-5224,Spray Park, ,Yes,All,Cooling,{87ACFFDF-3C99-44D5-AD5C-90E39DBAD8E3},Saturday and Sunday 10AM-8PM
+-77.0179964009999,38.96889264,108,108,Takoma Community Center Spray Park,300 Van Buren Street NW,Spray Park, ,202-576-7068,Spray Park, ,Yes,All,Cooling,{6DC4C85F-95CE-4989-8679-F2AAE36D5A69},Saturday and Sunday 10AM-8PM
+-76.9446452,38.86908028,109,109,Fort Davis Spray Park,1400 41st St SE,Spray Park, ,,Spray Park, ,Yes,All,Cooling,{C1C63400-EB80-4CEE-86FD-709C18EFE85D},Saturday and Sunday 10AM-8PM
+-77.03028861,38.9179557900001,110,110,Harrison Recreation Center Spray Park,1330 V St NW,Spray Park, ,202-673-7760,Spray Park, ,Yes,All,Cooling,{2907BB69-1D8A-40DA-A235-BB4B6D7CEC8C},Saturday and Sunday 10AM-8PM
+-76.99279011,38.9381043600001,111,111,Turkey Thicket Aquatic Center,1100 Michigan Ave NE,Spray Park, ,202-576-9238,Spray Park, ,Yes,,Cooling,{3088EBC2-0608-4DB2-9CCD-85E0FAF65E9A},Saturday and Sunday 10AM-8PM
+-77.012586115,38.82605154,112,112,Fort Greble Spray Park,Martin Luther King Jr. Ave and Elmira St SW,Spray Park, , ,Spray Park, ,Yes,All,Cooling,{0210150E-228E-44B6-A67F-CB2B93CBD6FF},Saturday and Sunday 10AM-8PM
+-76.98850077,38.9041177400001,113,113,Joseph H. Cole Recreation Center Spray Park,1299 Neal St NE,Spray Park, ,202-442-9262,Spray Park, ,Yes,All,Cooling,{4E0630C9-843C-407B-BDC9-92B5ADB3ED6E},Daily 10AM-8PM
+-77.0350518399999,38.92514592,114,114,Columbia Heights Spray Park,"1480 Girard St., NW",Spray Park, ,(202) 673-7647,Spray Park, ,Yes,,Cooling,{F23BC56E-C935-4FC0-8901-54254DEEC75F},
+-77.03251498,38.9175693,115,115,Frank D. Reeves Center (Lobby),2000 14th St NW,Office Building, ,202-671-0576,Office Building, ,No,,Cooling,{3506DBEB-9A21-4384-81F0-66F0F4D17936},
+-77.0156446,38.8954463800001,116,116,Marion Barry Building,441 4th St NW,Office Building,,202-724-8613,Office Building, ,Yes,,Cooling,{1B77AEB1-AD91-438F-878C-B4406EC63B07},Mon-Fri 7:30AM - 5:30PM
+-76.98582943,38.9150682600001,117,117,New York Avenue Men’s Emergency Shelter,1355 New York Ave NE,DHS Low Barrier Shelter, ,202- 399-7093,DHS Low Barrier Shelter, ,Yes,Men,Cooling,{24D611F5-9BF6-4C45-A57B-8EC66E4E8CB1},24 hours
+-76.97487627,38.9196222900001,118,118,Adams Place Emergency Shelter (Men),2210 Adams Place NE,DHS Low Barrier Shelter, ,202-399-7093,DHS Low Barrier Shelter, ,Yes,Men,Cooling,{833BD8BB-5254-423C-8523-65DFF31AAFE8},"Monday-Friday; 7am-7pm"
+-76.97557417,38.8852198100001,119,119,Harriet Tubman Emergency Shelter,1900 Massachusetts Ave SE,DHS Low Barrier Shelter, ,202-795-9966,DHS Low Barrier Shelter, ,No,,Cooling,{45769099-F5F7-4452-94FA-9215CA3578D0},
+-76.9947285699999,38.85068463,120,120,"801 East Men’s Shelter, Catholic Charities",2700 Martin Luther King Jr. Ave SE,DHS Low Barrier Shelter, ,202- 399-7093,DHS Low Barrier Shelter, ,Yes,Men,Cooling,{926A6650-8543-485C-965A-FB5D8ADB4F5D},"Monday-Friday: 7am-7pm,  Sat & Sun: 9am-1pm"
+-77.02582205,38.92147068,121,121,Garfield Terrace,2301 11th St NW,Public Housing Senior Citizens, ,202-362-7452,Public Housing Senior Citizens, ,No,Seniors Without AC,Cooling,{36EFA261-9EE8-4E10-A886-C6AA68ECA77C},
+-77.01740338,38.9192213000001,122,122,LeDroit Apartments,2125 4th St NW,Public Housing Senior Citizens, ,202-238-0483,Public Housing Senior Citizens, ,No,Seniors Without AC,Cooling,{47F2719D-45A2-42D9-902D-309AC9D221ED},
+-77.02829951,38.90519886,123,123,Horizon House,1150 12th St NW,Public Housing Senior Citizens, ,202-682-9395,Public Housing Senior Citizens, ,No,Seniors Without AC,Cooling,{7690F3FF-220A-4C6E-A314-B02C609F85C4},
+-77.03309689,38.9075004900001,124,124,James Apartments,1425 N St NW,Public Housing Senior Citizens, ,202-673-2387,Public Housing Senior Citizens, ,No,Seniors Without AC,Cooling,{38DECC9A-497B-49B6-8BFA-52E226B96FC6},
+-77.07112326,38.9578813100001,125,125,Regency House,5201 Connecticut Ave NW #116,Public Housing Senior Citizens, ,202-362-4445,Public Housing Senior Citizens, ,No,Seniors Without AC,Cooling,{4AFE8791-0736-4939-9DDD-24445F547C2A},
+-76.96093611,38.92806061,126,126,Fort Lincoln,2855 Bladensburg Rd NE,Public Housing Senior Citizens, ,202-576-6370,Public Housing Senior Citizens, ,No,Seniors Without AC,Cooling,{195F4EF0-56BE-41AA-93D9-1893A37327DB},
+-76.999196379,38.87879424,127,127,Arthur Capper,900 5th St SE,Public Housing Senior Citizens, ,202-546-1024,Public Housing Senior Citizens, ,No,,Cooling,{5CE229D5-1D63-46F6-B338-18B4D5D32B27},
+-76.9999535599999,38.8767111400001,128,128,Carroll Apartments,410 M St SE,Public Housing Senior Citizens, ,202-727-4069,Public Housing Senior Citizens, ,No,Seniors Without AC,Cooling,{BE97260C-7503-4FBF-9803-73C136E3F224},
+-77.009487231,38.9051201,129,129,Sibley Plaza,1140 North Capitol St NW,Public Housing Senior Citizens, ,202-289-0095,Public Housing Senior Citizens, ,No,Seniors Without AC,Cooling,{59681844-CCC5-4AC7-BB41-17BBA03E09A6},
+-76.96920978,38.8522619400001,130,130,Knox Hill,2700 Jasper St SE,Public Housing Senior Citizens, ,202-727-4005,Public Housing Senior Citizens, ,No,Seniors Without AC,Cooling,{5645C402-5580-4F82-8CA9-92168B6182EE},
+-77.006188521,38.83707193,131,131,King Office Building (Lobby),"3720 Martin Luther King Ave, S.E.",Office Building, ,202-279-1800,Office Building, ,No,,Cooling,{F1370195-FE07-44F7-AD39-9308D4F416FC},
+-77.01329693,38.8955041200001,132,132,Community for Creative Non-Violence (CCNV),"425 2nd Street, NW",DHS Low Barrier Shelter, ,202-399-7093,DHS Low Barrier Shelter, ,Yes,All,Cooling,{98B005BD-B0AA-42C4-9CDA-B588471D3C4E},24 hours
+-76.97487627,38.9196222900001,133,133,Adams Place Day Center for women,2210 Adams Pl NE #1,DHS Low Barrier Shelter, ,(202) 832-8317,DHS Low Barrier Shelter, ,No,,Cooling,{E1162B10-56EB-45F2-9C21-E37CA283666D},"Monday-Friday; 7am-7pm"
+-77.01275541,38.87508311,134,134,King Greenleaf Spray Park,"201 N St SW, Washington, DC 20024",Spray Park, ,(202) 645-7454,Spray Park, ,Yes,,Cooling,{3DC4A1DF-5A83-4768-A48B-90C4F95E0703},Daily 10AM-8PM
+-77.03762074,38.9100249700001,135,135,Stead Recreation Center,"1625 P Street, NW",Spray Park, ,(202) 673-4465,Spray Park, ,No,,Cooling,{C38B2213-5341-4AA3-90D0-EA7D0E823FF6},Daily 10AM-8PM
+-77.02465016,38.9150213,136,136,Westminster Playground,"911 Westminster Street, NW",Spray Park, , ,Spray Park, ,Yes,,Cooling,{B6F5DE50-5D02-43F1-98FA-195089D65567},Saturday and Sunday 10AM-8PM
+-77.08075387,38.96345912,137,137,Chevy Chase RC Spray Park,"5500 41st Street, NW",Spray Park, ,(202) 282-2204,Spray Park, ,Yes,,Cooling,{37F5D98D-2B10-4E65-91D6-3A976CACE271},Saturday and Sunday 10AM-8PM
+-76.97356897,38.92704459,138,138,Langdon Park Spray Park,2860 Mills Avenue NE,Spray Park, ,(202) 576-6595,Spray Park, ,Yes,,Cooling,{94447E24-0D08-43D8-A149-603B0671DA28},Daily 10AM-8PM
+-77.088055331,38.9424784500001,139,139,Friendship RC Spray Park,"4500 Van Ness Street, NW",Spray Park, ,(202) 282-2198,Spray Park, ,Yes,,Cooling,{8733A038-C00A-43EB-B83B-3DA7ECCC5D09},Saturday and Sunday 10AM-8PM
+-76.98307725,38.8700840600001,140,140,Anacostia HS,1601 16TH STREET SE,DCPS,Daily meals and weekly grocery distribution site.,(202) 698‐2155,DCPS, ,No,,Cooling,{A55EE0B7-9132-4D45-8C6E-D095DE7D8988},
+-77.0013625,38.8385116600001,141,141,Ballou HS,3401 4TH STREET SE,DCPS,Daily meals and weekly grocery distribution site.,(202) 645‐3400,DCPS, ,No,,Cooling,{DDE1715F-B1EC-4DD4-8110-9AA95926FC59},
+-77.0284706909999,38.92217286,142,142,Cardozo Education Campus,1200 Clifton Street NW,DCPS,Daily meals and weekly grocery distribution site.,(202) 673‐7385,DCPS, ,No,,Cooling,{12B95919-BA8B-467C-9F93-7D6E99888FB3},
+-77.01957835,38.9672845700001,143,143,Coolidge High School,6315 5th St. NW,DCPS,Daily meals and weekly grocery distribution site.,(202) 671‐6080,DCPS, ,No,,Cooling,{0EF31B8E-7365-4E7D-A72F-B11FA7C99D7D},
+-77.0126914799999,38.90762655,144,144,Dunbar High School,101 N St. NW,DCPS,Confirmed 2020 Cooling Site,(202) 698‐3762,DCPS,15-20,No,,Cooling,{B65DA7D3-015A-4122-BF23-918D1B762E74},
+-76.97968429,38.8904026600001,145,145,Eastern High School,1700 East Capitol St. NE,DCPS,Daily meals and weekly grocery distribution site.,(202) 698‐4500,DCPS, ,No,,Cooling,{BF9B2D86-767C-495F-9660-CBD1B0E7DF49},
+-76.92269884,38.8968115800001,146,146,HD Woodson High School,540 55th St. NE,DCPS, , ,DCPS, ,No,,Cooling,{6EE142B5-E5AF-4FEF-8415-A459E4DA30F8},
+-77.00432847,38.91492701,147,147,McKinley Tech  Education Campus,151 T St. NE,DCPS, , ,DCPS, ,No,,Cooling,{A6E92A52-413C-44DA-9236-2234A630401C},
+-76.9327047799999,38.9065627100001,148,148,Ron Brown College Prep,4800 Meade St. NE,DCPS, , ,DCPS, ,No,,Cooling,{D6B19FFE-AE65-4EDB-86CD-B3AC191EB5F2},
+-77.0288871499999,38.9430828700001,149,149,Roosevelt High School, 4301 13th St. NW,DCPS, , ,DCPS, ,No,,Cooling,{442E5B65-F502-4950-886B-61576E53020B},
+-77.04818647,38.89812412,150,150,School Without Walls,2130 G St. NW,DCPS, , ,DCPS, ,No,,Cooling,{C387FC77-1413-424A-ACC7-F4DAFCDC5BB0},
+-77.077775699,38.9501567200001,151,151,Wilson High School,3950 Chesapeake St. NW,DCPS, , ,DCPS, ,No,,Cooling,{A0EBE3E7-D859-439E-92B9-D1746572E767},
+-77.03555789,38.92933679,152,152,Columbia Heights Education Campus,3101 16th St. NW,DCPS,Daily meals and weekly grocery distribution site.,(202) 939‐7700,DCPS, ,No,,Cooling,{44C55AA3-BB74-483F-B9EB-3E8A8BECF002},
+-76.983124599,38.8726023,153,153,Anacostia Recreation Center,1800 ANACOSTIA DRIVE SE,Recreation Center, ,(202) 698-2250,Recreation Center, ,No,,Cooling,{5EDEFB94-C1B2-4A8E-ABA5-0DA6097E82A3},
+-76.9711692499999,38.9137164800001,154,154,Arboretum Community Center,2412 RAND PLACE NE,Recreation Center, ,(202) 673-4507,Recreation Center, ,No,,Cooling,{A81705B5-8139-4A95-A7E0-5ED3CE3A48EE},
+-76.926909,38.8798022300001,155,155,Benning Park Community Center,"SOUTHERN AVE. AND FABLE ST., SE",Recreation Center, ,(202) 341-6765,Recreation Center, ,No,,Cooling,{5B7D8482-DB7E-4790-9A4B-5F87C7ACE61B},
+-76.9829372899999,38.9210022300001,156,156,Brentwood Recreation Center,2311 14TH STREET NE,Recreation Center,,(202) 576-6667,Recreation Center, ,Yes,,Cooling,{E00ACFA3-FB50-4B9C-A4C0-EADA4EE3F076},
+-77.08075387,38.96345912,157,157,Chevy Chase Playground,5500 41ST STREET NW,Recreation Center,,(202) 282-2200,Recreation Center, ,Yes,,Cooling,{77EAD59C-081D-461D-89E6-93CB83A8F228},
+-76.97776893,38.8526053300001,158,158,Douglass Community Center,"2100 STANTON TERRACE, SE",Recreation Center,,(202) 645-3980,Recreation Center, ,Yes,,Cooling,{746229E2-DD4F-4955-B95F-3525F8ED5287},
+-76.979850723,38.936164681,159,159,Dwight A. Moseley,18TH STREET NE AND PERRY STREET NE,Recreation Center, , ,Recreation Center, ,No,,Cooling,{640F9F78-B53D-4D67-82D4-75EA96333EDD},
+-76.95752807,38.9272886100001,160,160,Fort Lincoln Recreation Center,3100 FORT LINCOLN DRIVE NE,Recreation Center, ,(202) 576-6818,Recreation Center, ,No,,Cooling,{D9381808-0A04-405D-AAE8-F44222DEC32B},
+-77.03115889,38.97026192,161,161,Fort Stevens Recreation Center,1327 VAN BUREN STREET NW,Recreation Center,,(202) 541-3754,Recreation Center, ,Yes,,Cooling,{B86D146C-4B57-45C9-B381-7001B5104308},
+-77.067872184,38.9107230640001,162,162,Georgetown,Q STREET NW AND 34TH STREET NW,Recreation Center, , ,Recreation Center, ,No,,Cooling,{B231427C-60BE-4C08-AF04-BF811E7C1054},
+-77.03028861,38.9179557900001,163,163,Harrison Recreation Center,1330 V STREET NW,Recreation Center, ,(202) 673-6865,Recreation Center, ,No,,Cooling,{8781AD61-37E3-4B7A-AC1E-BB1AABA81CEC},
+-77.00786815,38.9139860600001,164,164,Harry Thomas Sr. Recreation Center,1743 LINCOLN ROAD NE,Recreation Center,,(202) 576-5642,Recreation Center, ,Yes,,Cooling,{F8DFE740-FBBA-4E21-8480-810D2A1D6C16},
+-77.07158256,38.9408685700001,165,165,Hearst Recreation Center,3950 37TH STREET NW,Recreation Center,,(202) 282-2207,Recreation Center, ,Yes,,Cooling,{EC27CF9E-6F32-4771-BEBE-283F57A88200},
+-76.975788489,38.92682275,166,166,Langdon Park Community Center,2901 20th St NE,Recreation Center,,(202) 576-6595,Recreation Center, ,Yes,,Cooling,{5618373E-CB36-46FD-854A-D7366C17023B},
+-76.9335669499999,38.89850289,167,167,Lederer Gardens,4801 NANNIE HELEN BURROUGHS AVENUE NE,Recreation Center, ,(202) 727-8061,Recreation Center, ,No,,Cooling,{FAEE344C-5141-46AB-B084-9AB4E1125DFF},
+-77.0669922399999,38.93370408,168,168,Macomb Recreation Center,3409 Macomb St NW,Recreation Center, ,(202) 282-2199,Recreation Center, ,No,,Cooling,{FC60BA8D-A0F9-46B1-BB3C-044328025F2F},
+-77.04999657,38.9145685500001,169,169,Mitchell Park Recreation Center,1801 23RD STREET NW,Recreation Center, ,(202) 673-6871,Recreation Center, ,No,,Cooling,{D1B0F1D6-2C68-41BC-84C4-F17D04A3AD99},
+-77.0007586839999,38.836291325,170,170,Oxon Run Recreation Center (Closed?),4TH ST AND MISSISSIPPI AVE SE,Recreation Center, ,(202) 645-3960,Recreation Center, ,No,,Cooling,{14EFF452-9F88-4169-906B-8716122A05DC},
+-76.983655341,38.885352647,171,171,Payne,C STREET SE AND 15TH STREET SE,Recreation Center, , ,Recreation Center, ,No,,Cooling,{707EB9A2-0A8A-4BBA-860E-4181C9DF13BE},
+-77.0240035099999,38.9410097000001,172,172,Petworth Recreation Center,801 TAYLOR STREET NW,Recreation Center,,(202) 576-6850,Recreation Center, ,Yes,,Cooling,{72E7CD77-F8D7-4C38-B23B-2232BD5D4B95},
+-77.01361683,38.9040027500001,173,173,RH Terrell Recreation Center,155 L STREET NW,Recreation Center, ,(202) 939-5946,Recreation Center, ,No,,Cooling,{B2A8B80C-7272-41CF-BCDE-9470E0F09020},
+-77.03236212,38.92199907,174,174,Rita Bright Community Center,2500 14TH STREET NW,Recreation Center, ,(202) 645-7111,Recreation Center, ,No,,Cooling,{28A2212D-50D8-486F-AEE7-010739D879A0},
+-77.05504983,38.9079852400001,175,175,Rose Park Recreation Center,2609 DUMBARTON STREET NW,Recreation Center, ,(202) 251-2288,Recreation Center, ,No,,Cooling,{48519836-2A4F-42BE-B08F-27B7C706A50D},
+-77.0135093819999,38.9533233540001,176,176,Rudolph,HAMILTON STREET NW AND 2ND STREET NW,Recreation Center, , ,Recreation Center, ,No,,Cooling,{0931D40D-EE8A-4CAC-9980-D4DB45F2621D},
+-77.027039418,38.910548228,177,177,Shaw,RHODE ISLAND AVENUE NW AND 11TH STREET NW,Recreation Center, , ,Recreation Center, ,No,,Cooling,{7994C107-4033-40D8-BA73-AAB5FEC49868},
+-77.03762074,38.9100249700001,178,178,Stead Recreation Center,1625 P STREET NW,Recreation Center, ,(202) 673-4465,Recreation Center, ,No,,Cooling,{C58CE4FB-4559-4700-9DBF-F790847C8D60},
+-76.95827674,38.9241811900001,179,179,Theodore Hagans Cultural Center,3201 FORT LINCOLN DRIVE NE,Recreation Center, ,(202) 576-3017,Recreation Center, ,No,,Cooling,{333C15EF-B454-488B-8092-63D19CBB450B},
+-77.0323147,38.9433137300001,180,180,Upshur Recreation Center,4300 ARKANSAS AVENUE NW,Recreation Center,,(202) 576-6842,Recreation Center, ,Yes,,Cooling,{5EE9ABD9-DE82-4C68-89E0-830AE1E548B9},
+-76.99153361,38.8772254180001,181,181,Virginia Avenue,L STREET SE AND 11TH STREET SE,Recreation Center, , ,Recreation Center, ,No,,Cooling,{419905DE-19B0-43D0-B2ED-8A5B69667B48},
+-77.03121326,38.89997606,182,182,New York Avenue Presbyterian Church,"1313 New York Avenue, NW",Church, , ,Church, ,No,,Cooling,{B07FFBCD-A03F-43A0-A324-0C0EEC584DD4},
+-77.03121326,38.89997606,183,183,New York Avenue Presbyterian Church,"1313 New York Avenue, NW",Church, , ,Church,"175 Fellowship Hall; 500 Sanctuary
+",No,,Cooling,{25F16D31-767D-4325-8C07-616F2C2046DF},
+-77.0369800399999,38.910172887,184,184,Foundry United Methodist Church,"1500 16th Street, NW",Church, , ,Church,"100 Fellowship Hall; 500 Sanctuary
+",No,,Cooling,{BA5B052B-7CAB-47F1-92AE-2DFEAF2EC871},
+-77.031608668,38.911658823,185,185,John Wesley AMEZ Church,"1615 14th Street, NW",Church, , ,Church,"800 Sanctuary; 200 Fellowship
+",No,,Cooling,{A20DE4C0-75B1-4762-B02E-CBE0C543482D},
+-77.03159656,38.90696683,186,186,Luther Place Memorial Church,"1226 Vermont Avenue, NW",Church, , ,Church,200 Sanctuary,No,,Cooling,{52305412-E4DA-4199-9629-1D3225364F4A},
+-77.024311403,38.909951575,187,187,Shiloh Baptist Church,"1500 9th Street, NW",Church, , ,Church,"800 Sanctuary Fellowship Hall unavailable
+",No,,Cooling,{1A453622-7B94-4E75-98AF-7D94D8BD15B6},
+-77.035436075,38.905398711,188,188,Metropolitan AME Church,"1518 M Street, NW",Church, , ,Church,"500 Sanctuary; 100 Fellowship Hall
+",No,,Cooling,{48B436D3-DF26-484F-918C-58712625ED6F},
+-77.0226016399999,38.89938884,189,189,Calvary Baptist Church,"755 8th Street, NW",Church, , ,Church,"300 Sanctuary; 100 Fellowship Hall
+",No,,Cooling,{9CCFF87B-F660-47D5-9670-D413207472ED},
+-77.032575391,38.9064550900001,190,190,National City Christian Church,"5 Thomas Circle, NW",Church, , ,Church,500 Sanctuary,No,,Cooling,{D90663CE-DA99-4221-A866-EDE557490031},
+-77.030495692,38.8986495230001,191,191,Church of the Epiphany,"1317 G Street, NW",Church, , ,Church, ,No,,Cooling,{5DA27A79-3643-415A-AA9E-2BFD093FF191},
+-76.9899298249999,38.883610918,192,192,Watkins Elementary School,"420 12th Street, SE",School,Confirmed 2020 Cooling Site, ,DCPS, ,No,,Cooling,{7B3F473B-6CFC-4BE0-93A6-31BE7285B8CF},
+-76.987605875,38.8642924050001,209,,New Covenant Baptist Church,"1301 W Street, SE",Alert Night Shelter,,,,,No,Women,Warming,{A91941EB-6404-44DF-8747-7F167658C97C},Open Nightly
+-77.069368466,38.9253481220001,210,,Community of Christ Church,"3526 Massachusetts Avenue, NW",Alert Night Shelter,,,,,No,Women,Warming,{847C9AD0-FC2B-4FB6-8A9F-B4C29155E664},Open Nightly
+-76.993161995,38.898613993,211,,Sherwood Recreation Center,"640 10th Street, NE",Alert Night Shelter,,,,,Yes,Women,Warming,{93C93764-9B8F-4365-9C7E-41DC7D5C00E4},Open Nightly
+-77.012762406,38.875082868,212,,King Greenleaf Recreation Center,"201 N Street, SW",Seasonal Shelter,,,,,No,Women,Warming,{4C11AF83-6B64-4342-9A29-BBEE73CFD95C},Daily 10AM-8PM
+-76.9742256,38.885483392,213,,Harriet Tubman Shelter,"1900 Massachusetts Avenue, SE",Low Barrier Emergency Shelter,,,,,No,Women,Warming,{73D29079-F8B8-4A69-914F-2887A84E1C01},Ongoing Open Shelter
+-77.028324595,38.9632071460001,214,,Nativity Shelter,"6010 Georgia Avenue, NW",Low Barrier Emergency Shelter,,,,,No,Women,Warming,{CF0FC230-9C91-4E4E-BC82-D075D2ECB68F},Ongoing Open Shelter
+-77.019170604,38.900357678,215,,Patricia Handy Place for Women,"810 5 Street, NW",Low Barrier Emergency Shelter,,,DHS Low Barrier Shelter,,Yes,Women,Warming,{522F40B4-A2DE-4B56-8F88-D4D0DE3B830F},24 hours
+-77.022606825,38.922712545,216,,Banneker Recreation Center,"2500 Georgia Avenue, NW",Alert Night Shelter,,,,,No,Men,Warming,{BD6CDD99-FFB3-4FCA-95DD-0E5682C4B2A6},Open Nightly
+-77.0215284029999,38.9090327690001,217,,Kennedy Recreation Center,"1401 7th Street, NW",Spray Park,,,Spray Park,,Yes,All,Warming,{661A68E0-4DBA-48BC-809D-3A4C0D414A60},Daily 10AM-8PM
+-77.0316835949999,38.894790464,218,,Community for Creative Non-Violence,"425 D Street, NW",Low Barrier Emergency Shelter,,,,,No,Women,Warming,{1A602880-57A5-4DF0-8E61-36D1A02618B8},Ongoing Open Shelter
+-76.99476792,38.8491661670001,219,,801 East Shelter,"2722 Martin Luther King Jr Ave, SE",Low Barrier Emergency Shelter,,,,,No,Men,Warming,{131BA213-0BB9-44FA-884E-F5879A769718},Ongoing Open Shelter
+-76.9748659859999,38.919636074,220,,Adams Place Day Center,"2210 Adams Place, NE",DHS Low Barrier Shelter,Adam's Place Shelter is a men's shelter open to all as a cooling center in heat emergencies.,202-832-8317,DHS Low Barrier Shelter,,Yes,All,Cooling,{A82D09A3-30F1-4154-B5C1-739E0CEBF004},Daily
+-76.9901801619999,38.9135330180001,221,,New York Avenue Shelter,"1355-57 New York Avenue, NE",Low Barrier Emergency Shelter,,,,,No,Men,Warming,{8DA6E7E5-E6B0-4CC8-8F2E-36ECCEAA2CEA},Ongoing Open Shelter
+-77.026252797,38.9315861480001,222,,Salvation Army,"3335 Sherman Avenue, NW",Seasonal Shelter,,,,,No,Co-Ed,Warming,{A8C590E8-1AA6-43F7-9ED4-C340629F8183},Open Nightly
+-76.9871576959999,38.844785255,223,,Malcolm X Recreation Center,1351 Alabama Avenue SE,Seasonal Shelter,,,,,No,Co-Ed,Warming,{503ACA59-63DB-4017-A7EA-8B4C0EC1C567},Open Monday (7am-7pm)
+-77.0316835949999,38.894790464,224,,Community for Creative Non-Violence,"425 D Street, NW",Low Barrier Emergency Shelter,,,,,No,Men,Warming,{0360C397-2731-4C04-8784-26D047D41294},Ongoing Open Shelter
+-76.9973152489999,38.861018447,225,,Barry Farm Recreation Center,1200 Sumner Road SE,Recreation Center,,(202) 442-5420,Recreation Center,,Yes,All,Cooling,{B8FF26D4-CF65-47F0-9845-870FB7F5F4AD},"Mon-Fri 10am-9pm; Sat 9am-5pm"
+-77.0350518399999,38.92514592,226,,Columbia Heights Recreation Center,1480 Girard St NW,Recreation Center,,202-671-0373,Recreation Center,,Yes,All,Cooling,{2DFA6B11-481C-4B8A-92C1-E6B058B980B4},"Mon-Fri 10am-9pm; Sat 9am-5pm"
+-77.027883715,38.958837551,227,,Emery Heights Recreation Center,5701 Georgia Ave NW,Recreation Center,,202-576-3211,Recreation Center,,No,All,Cooling,{DA60FE7D-A21D-45D3-8F2D-81F8836BADF7},"Mon-Fri 10am-9pm; Sat 9am-5pm"
+-77.010337157,38.8798501740001,228,,Randall Pool,25 I St SW,Outdoor Pool,,202-576-6850,Outdoor Pool,,Yes,,Cooling,{1FF7B4A6-219D-44D3-8EBE-EE26EFDBA66C},Daily 10AM-8PM
+-77.0258180399999,38.9052206860001,229,,10th St (Connie Maffin Memorial Park),"1119 10th St, NW",Spray Park,,,Spray Park,,Yes,,,{40EB3134-65F1-4C15-AB9A-FC3A0636F56D},Daily 10AM-8PM
+-76.948205329,38.888852351,230,,Benning Stoddard Spray Park,"100 Stoddert Pl, SE",Spray Park,,,Spray Park,,Yes,,,{E1A2BEBB-3956-4505-804B-F09F48C0748C},Daily 10AM-8PM
+-76.9325977249999,38.9084294670001,231,,Deanwood Recreation Center,1350 49th St NE,Recreation Center,,202-671-3077,Recreation Center,,Yes,,,{B5E32B48-ED1B-42CB-A418-0F034501EABE},"Mon-Fri 10am-9pm (fitness center opens at 6am); Sat 9am-5pm"
+-76.995654289,38.8840921070001,232,,Eastern Market Metro Park,"701 Pennsylvania Ave, SE",Spray Park,,,Spray Park,,Yes,,,{7DD5CD26-BC1F-494C-AD7E-8CB9B1EADCBD},Saturday and Sunday 10AM-8PM
+-77.002012474,38.924721097,233,,Edgewood Spray Park,"3rd and Evarts St, NE",Spray Park,,,Spray Park,,Yes,,,{5268E976-3E4D-4C1C-A385-E046F050AC38},Saturday and Sunday 10AM-8PM
+-76.979007565,38.897646149,234,,Rosedale Recreation Center,1701 Gales St NE,Recreation Center,,202-727-2591,Recreation Center,,Yes,,,{7828C0E7-6434-40F5-9D8D-E7D6661CF52C},"Mon-Fri 10am-9pm; Sat 9am-5pm"
+-77.1044549969999,38.924553378,235,,Palisades Recreation Center,"5200 Sherrier Place, NW",Recreation Center,,202-545-7201,Recreation Center,,Yes,,,{D34D56BC-B711-403E-ADFC-E191F66E791A},"Mon-Fri 10am-9pm; Sat 9am-5pm"
+-77.0159173919999,38.918103742,236,,Park at LeDroit,319 Oakdale Pl NW,Spray Park,,,Spray Park,,Yes,,Cooling,{077BC7AA-8103-42B6-92A4-1AB20A927645},Saturday and Sunday 10AM-8PM
+-76.989469167,38.8785507010001,237,,Potomac Ave Triangle Park,"1216 Potomac Ave, SE",Spray Park,,,Spray Park,,Yes,,,{A48370DD-E783-4BE3-A9A2-0F1697F06D08},Saturday and Sunday 10AM-8PM
+-76.9266738119999,38.8971573060001,238,,Marvin Gaye Park,Division Ave NE and Foote St NE,Spray Park,,,Spray Park,,Yes,,,{196BE875-182D-4E1D-89D3-32839EC6F68C},Saturday and Sunday 10AM-8PM
+-77.044349767,38.92072947,239,,Kalorama Recreation Center,"1875 Columbia Road, NW",Recreation Center,,202-673-7606,Recreation Center,,Yes,,Cooling,{A5AB7F63-B493-4448-B633-9A86D12C33E7},"Mon – Fri: 11AM – 7PM; Sat – Sun: Closed"
+-77.008245034,38.96755727,240,,Lamond Recreation Center,"20 Tuckerman Street, NE",Recreation Center,,202-576-9541,Recreation Center,,Yes,,Cooling,{AEE0E894-4C00-4CFD-81A6-CDA5C3929879},"Mon – Fri: 10AM – 9PM; Sat: 9AM – 5PM"
+-77.0264866049999,38.9368156,241,,Ramond Recreation Center,"3725 10th Street, NW",Recreation Center,,202-671-2181,Recreation Center,,Yes,,Cooling,{04FE69AC-F99D-4996-B327-92F19B5DA794},"Mon – Fri: 10AM – 9PM; Sat: 9AM – 5PM"
+-77.034059073,38.9844645950001,242,,Shepherd Park Community Center,7800 14th Street NW,Recreation Center,,202-788-2234,Recreation Center,,Yes,,Cooling,{7E43F4CF-A916-49D3-8B7B-AC3223A17810},"Mon – Fri: 10AM – 9PM; Sat: 9AM – 5PM"
+-77.0020149759999,38.9246611890001,243,,Edgewood Recreation Center,"301 Franklin Street, NE",Recreation Center,,202-788-2204,Recreation Center,,Yes,,Cooling,{2F2C3C4E-0D77-4061-977C-EEE687A90546},"Mon – Fri: 10AM – 9PM; Sat: 9AM – 5PM"
+-76.986446202,38.9499633730001,244,,North Michigan Park Recreation Center,"1333 Emerson Street, NE",Recreation Center,,202-541-3526,Recreation Center,,Yes,,Cooling,{F4D65AC9-8A14-4635-B555-9C18381C5B9F},"Mon – Fri: 10AM – 9PM; Sat: 9AM – 5PM"
+-76.982640884,38.9064751710001,245,,Trinidad Recreation Center,"1310 Childress Street, NE",Recreation Center,,202-727-1293,Recreation Center,,Yes,,Cooling,{2F06DF5E-8034-4A4E-87F1-DB33A467EFC2},"Mon – Fri: 10AM – 9PM; Sat: 9AM – 5PM"
+-76.92683935,38.8798296530001,246,,Woody Ward Recreation Center,"5100 Southern Avenue, SE",Recreation Center,,202-645-3957,Recreation Center,,Yes,,Cooling,{70993307-C5A5-44C9-B0A4-DD4E6EDEA816},"Mon – Fri: 10AM – 9PM; Sat: 9AM – 5PM"
+-76.941404945,38.876805932,247,,Ridge Road Community Center,"830 Ridge Road, SE",Recreation Center,,202-671-6747,Recreation Center,,Yes,,Cooling,{04D9D9B9-7AC2-469E-A37F-DDEDA51C0ED8},"Mon – Fri: 10AM – 9PM; Sat: 9AM – 5PM"
+-76.996035976,38.8477657830001,248,,801 East Day Center,"2722 Martin Luther King Jr Ave, SE",Recreation Center,,202-984-7519,Recreation Center,,Yes,,Cooling,{D3B087AD-DB11-4496-B952-AD1BCE9210A8},"Mon – Fri: 7AM – 7PM; Sat: 9AM – 1PM"
+-76.9992059209999,38.8780630300001,249,,Arthur Capper Community Center,1000 5th Street SE,Recreation Center,,202-478-9260,Recreation Center,,Yes,,Cooling,{514EC3F8-0134-4D54-A84C-A7486216D2AD},"Mon – Fri: 10AM – 9PM; Sat: 9AM – 5PM"
+-77.0101709049999,38.8188935900001,250,,Bald Eagle Recreation Center,"100 Joliet Street, SW",Recreation Center,,202-671-5125,Recreation Center,,Yes,,Cooling,{04A0C3C2-1800-43C7-A1AA-86A5FA14C8CB},"Mon – Fri: 10AM – 9PM; Sat: 9AM – 5PM"
+-76.978711174,38.857524665,251,,Fort Stanton Recreation Center,"1812 Erie Street, SE",Recreation Center,,,Recreation Center,,Yes,,Cooling,{816D7DB8-0518-4F6C-A0C2-AC21FA6837EA},"Mon – Fri: 10AM – 9PM; Sat: 9AM – 5PM"
+-77.072242715,38.938306658,252,,Hearst Pool,3701 37th Street NW,Outdoor Pool,,(202) 671-1289,Outdoor Pool,,No,,,{77975625-FF9A-419F-86B0-3489A876742A},"Mon, Tues, Wed & Fri: 12 pm - 8 pm Sat & Sun: 10 am - 6 pm (Closed Thursdays)"

@@ -1,0 +1,54 @@
+---
+title: "Data Workbook"
+author: "Evan Bowman"
+date: "2022-11-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+suppressMessages(library(tidyverse))
+library(sf)
+```
+
+# Data Loading
+```{r}
+hsei <- read_csv("../data/Heat_Sensitivity_Exposure_Index.csv", show_col_types = F)
+tracts <- read_sf("../data/Census_Tracts_in_2020")
+```
+
+Getting geometry variable from DC Census Data
+```{r}
+library(tidycensus)
+library(keyring)
+key_set("API_KEY_CENSUS")
+census_key <- key_get("API_KEY_CENSUS")
+```
+
+```{r}
+dc_median <- get_acs(state = "DC", county = "District of Columbia",
+                     geography = "tract",
+                     variables = "B19013_001",
+                     geometry = TRUE,
+                     key = Sys.getenv("API_KEY_CENSUS"))
+glimpse(dc_median)
+```
+# Joining Census Data to Obtain Geometry variable
+```{r}
+hsei_medianHouse <- left_join(hsei, dc_median, by = c("NAME" = "NAME"))
+
+write_csv(hsei_medianHouse, "DC_Heat_Island.csv")
+```
+
+# delete the missing data
+```{r}
+library(tidyverse)
+DC_Heat_Island <- read_csv("../data/DC_Heat_Island.csv")
+DC_Heat_Island %>% 
+  filter(HSI > 0) -> DC_Heat_Island
+write_csv(DC_Heat_Island, "../data/DC_Heat_Island.csv")
+```
+
