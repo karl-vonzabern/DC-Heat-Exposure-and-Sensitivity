@@ -1,6 +1,6 @@
 # DC Heat Exposure and Sensitivity
 
-We hope this app lends itself to answering important questions regarding the correlates that exacerbate extreme heat and the communities most affected. Thus, our app will assist in understanding of two specific questions:
+We hope this app allows users to explore the data and answer important empirical questions about the social and economic correlates that exacerbate extreme heat in DC. Our app will users better understand the answer to two specific questions:
 
 What are environmental metrics that are correlated with Urban Heat Island Effects?
 
