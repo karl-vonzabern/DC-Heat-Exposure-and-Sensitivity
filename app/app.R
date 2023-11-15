@@ -1,4 +1,4 @@
-
+62863
 
 library(shiny)
 library(bslib)
@@ -12,13 +12,14 @@ library(corrplot)
 library(recipes)
 library(shinydashboard)
 library(shinycssloaders)
+library(rsconnect)
 
 
 
-heat_DC <- read_csv("../data/DC_Heat_Island.csv", show_col_types = F)
-tracts <- read_sf("../data/Census_Tracts_in_2020/")
-Cooling_Centers <- read_csv("../data/Cooling_Centers_-_District_of_Columbia.csv")
-urban_forestry <- read_csv("../data/Urban_Forestry_Street_Trees.csv")
+heat_DC <- read_csv("./data/DC_Heat_Island.csv", show_col_types = F)
+tracts <- read_sf("./data/Census_Tracts_in_2020/")
+Cooling_Centers <- read_csv("./data/Cooling_Centers_-_District_of_Columbia.csv")
+urban_forestry <- read_csv("./data/Urban_Forestry_Street_Trees.csv")
 forest_samp <- slice_sample(urban_forestry, prop = .2) 
 
 tracts_clean <- tracts %>%

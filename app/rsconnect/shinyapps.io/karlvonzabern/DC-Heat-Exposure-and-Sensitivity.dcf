@@ -1,0 +1,12 @@
+name: DC-Heat-Exposure-and-Sensitivity
+title:
+username: karlvonzabern
+account: karlvonzabern
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10527581
+bundleId: 7931456
+url: https://karlvonzabern.shinyapps.io/DC-Heat-Exposure-and-Sensitivity/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
