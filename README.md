@@ -1,4 +1,5 @@
 # DC Heat Exposure and Sensitivity
+Find App Here: https://karlvonzabern.shinyapps.io/DC-Heat-Exposure-and-Sensitivity/
 
 We hope this app allows users to explore the data and answer important empirical questions about the social and economic correlates that exacerbate extreme heat in DC. Our app will users better understand the answer to two specific questions:
 
